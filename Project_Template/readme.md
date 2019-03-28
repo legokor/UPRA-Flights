@@ -9,3 +9,4 @@ Issues.txt - contains the main issues and checklists. All issue templates are Ma
    2. Project name: Use mission name
 2. Add Notes - Use names from Issues.txt
 3. Convert Notes to Issues - Use checklists from Issues.txt
+4. Add labels to Issues - Use labels from Issues.txt
