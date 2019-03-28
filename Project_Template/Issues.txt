@@ -1,0 +1,96 @@
+Flight Preparations
+-------------------
+* [ ] Flight Planning 
+* [ ] Procurement 
+* [ ] Flight Computer Smoke Test 
+* [ ] Control Camera Smoke Test 
+* [ ] Backup GPS Tracker Smoke Test
+* [ ] GND Preparations
+* [ ] Ground Station Arrangements
+* [ ] Avionics Integration (Service Module)
+* [ ] Backup GPS Integration
+* [ ] Control Camera Integration
+* [ ] Payload Integration
+* [ ] Full System Integration 
+
+
+
+Flight Planning
+----------------
+* [ ] Clarify Objectives
+* [ ] Clarify Roles
+* [ ] GANTT
+* [ ] Notify local FAA
+* [ ] Callsign Arrangements
+* [ ] Remote Sensing Legal Issues
+* [ ] Update Checklists
+* * [ ] Flight Computer Integration
+* * [ ] Avionics Integration
+* * [ ] Payload Integration
+* * [ ] Control Camera Integration
+* * [ ] Backup Tracker Integration
+* * [ ] Launch (Platform)
+* * [ ] Launch (Payload)
+* * [ ] Launch Equipment
+* * [ ] GND Equipment
+* * [ ] Recovery Equipment
+* [ ] Run Predictions
+* [ ] Recovery Team Plans
+
+
+
+Flight Computer Smoke Test
+--------------------------
+* [ ] Test planning
+* [ ] Sub-system level Smoke Tests
+* * [ ] OBC
+* * [ ] COM
+* * [ ] APRS
+* * [ ] EPS
+* [ ] Integrated Smoke Test
+
+
+
+Avionics Integration
+--------------------
+Integration of the UPRA Avionics Fligth Computer
+* COM
+* OBC
+* * Buzzer
+* EPS + GPS extension
+* APRS
+* Payload Interface
+
+
+Flight
+-------
+* [ ] Launch Preparation
+* [ ] Launch
+* [ ] Flight
+* [ ] Recovery
+
+
+
+Post Flight Analysis 
+--------------------
+* [ ] Disassembly
+* * [ ] Avionics
+* * [ ] Control Camera
+* * [ ] Backup GPS
+* * [ ] Payload
+* [ ] Download Data
+* * [ ] Flight Log
+* * [ ] Control Camera Video
+* * [ ] Payload Data
+* [ ] Process Data
+* * [ ] Process Flight log
+* * [ ] Process Control Camera Video
+* * [ ] Process Payload Data
+* [ ] Lessons Learned
+* * [ ] Pt.1 - Launch and Operation
+* * [ ] Pt.2 - Flight Events
+* [ ] Post-Flight Analysis Document
+* [ ] Post on LEGO and UPRA website
+
+
+
