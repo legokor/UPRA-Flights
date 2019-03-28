@@ -12,6 +12,8 @@ Flight Preparations
 * [ ] Control Camera Integration
 * [ ] Payload Integration
 * [ ] Full System Integration 
+-------
+LABELS: Epic, Normal
 
 
 
@@ -36,7 +38,8 @@ Flight Planning
 * * [ ] Recovery Equipment
 * [ ] Run Predictions
 * [ ] Recovery Team Plans
-
+-------
+LABELS: Documentation, Management, Normal
 
 
 Flight Computer Smoke Test
@@ -48,18 +51,9 @@ Flight Computer Smoke Test
 * * [ ] APRS
 * * [ ] EPS
 * [ ] Integrated Smoke Test
+-------
+LABELS: Test/Measurement, Normal
 
-
-
-Avionics Integration
---------------------
-Integration of the UPRA Avionics Fligth Computer
-* COM
-* OBC
-* * Buzzer
-* EPS + GPS extension
-* APRS
-* Payload Interface
 
 
 Flight
@@ -91,6 +85,7 @@ Post Flight Analysis
 * * [ ] Pt.2 - Flight Events
 * [ ] Post-Flight Analysis Document
 * [ ] Post on LEGO and UPRA website
-
+-------
+LABELS: Documentation, Review, Normal
 
 
