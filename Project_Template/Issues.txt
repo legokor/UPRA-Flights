@@ -8,7 +8,7 @@ Flight Preparations
 * [ ] GND Preparations
 * [ ] Ground Station Arrangements
 * [ ] Avionics Integration (Service Module)
-* [ ] Backup GPS Integration
+* [ ] TOMI Integration
 * [ ] Control Camera Integration
 * [ ] Payload Integration
 * [ ] Full System Integration 
@@ -30,7 +30,7 @@ Flight Planning
 * * [ ] Avionics Integration
 * * [ ] Payload Integration
 * * [ ] Control Camera Integration
-* * [ ] Backup Tracker Integration
+* * [ ] TOMI Integration
 * * [ ] Launch (Platform)
 * * [ ] Launch (Payload)
 * * [ ] Launch Equipment
@@ -70,7 +70,7 @@ Post Flight Analysis
 * [ ] Disassembly
 * * [ ] Avionics
 * * [ ] Control Camera
-* * [ ] Backup GPS
+* * [ ] TOMI
 * * [ ] Payload
 * [ ] Download Data
 * * [ ] Flight Log
