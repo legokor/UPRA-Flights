@@ -1,1 +1,1 @@
-for /r "c:\Users\THINKPAD\Workspace\Directrory_Structure\" %%i in (.) do @copy "c:\Users\THINKPAD\Workspace\Directrory_Structure\_placeholder.txt" "%%i"
+for /r "%cd%" %%i in (.) do @copy "%cd%\_placeholder.txt" "%%i"
